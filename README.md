@@ -20,6 +20,22 @@ histórica?
 6. Qual moeda se mostra menos interessante em relação à valorização pela análise da série
 histórica?
 7. Existe correlação entre os valores para todas as criptomoedas?
+8. Qual o comportamento das criptomoedas durante o período de isolamento social na Pandemia?
+9. Qual a previsão para os próximos anos na retomada do mercado?
+
+## Um pouco de história...
+
+O conceito de moedas digitais não é novo; propostas e experimentos de dinheiro eletrônico tiveram início nas últimas décadas do século XX. No entanto, a maioria dessas tentativas não conseguiu decolar ou sustentar-se por muito tempo, principalmente devido à falta de confiança, centralização e problemas de dupla despesa. O cenário mudou com o nascimento do Bitcoin em 2008, quando uma pessoa (ou um grupo de pessoas) sob o pseudônimo de Satoshi Nakamoto publicou o whitepaper do Bitcoin. Esta proposta introduziu uma solução para o problema de dupla despesa através de um registro público descentralizado, que agora conhecemos como blockchain. Em 2009, Nakamoto lançou o software Bitcoin, marcando o início da primeira criptomoeda verdadeiramente descentralizada.
+
+O Bitcoin foi projetado como uma moeda digital peer-to-peer(pessoa para pessoa) que não necessita de intermediários, como bancos, para validar transações. Isso foi revolucionário, pois introduziu um sistema em que a confiança não se baseia em entidades centrais, mas em um consenso distribuído.
+
+Depois do Bitcoin, várias outras criptomoedas começaram a emergir. Estas, muitas vezes referidas como "altcoins", trouxeram novas funcionalidades e algoritmos de consenso. Ethereum, lançado em 2015 por Vitalik Buterin e sua equipe, introduziu o conceito de "contratos inteligentes", permitindo que desenvolvedores criassem aplicações descentralizadas em sua plataforma. Isso abriu as portas para uma onda de inovação, resultando na criação de centenas de novas criptomoedas e tokens.
+
+Inicialmente, as criptomoedas foram muitas vezes associadas a nichos e até atividades ilícitas. No entanto, ao longo do tempo, a narrativa começou a mudar. Empresas e instituições tradicionais começaram a mostrar interesse em blockchain e em criptomoedas, tanto como investimento quanto como tecnologia.
+
+A evolução das criptomoedas tem sido marcada por ciclos de alta e baixa, adoção crescente, inovação técnica e desafios regulatórios. Projetos como o Bitcoin e o Ethereum provaram que é possível ter sistemas financeiros e aplicações descentralizadas. Além disso, conceitos como finanças descentralizadas (DeFi) e tokens não fungíveis (NFTs) têm moldado uma nova era de aplicações e usos para a tecnologia blockchain.
+
+O futuro das criptomoedas permanece incerto e sujeito a desafios, tanto técnicos quanto regulatórios. No entanto, é inegável que elas trouxeram uma revolução no mundo financeiro e tecnológico, abrindo caminho para um futuro onde a descentralização pode ser a norma e não a exceção.
 
 ## Como Executar o Projeto
 
