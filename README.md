@@ -73,11 +73,18 @@ Fique à vontade para contribuir com melhorias, correções de bugs ou novas an�
 
 ## Autores
 
-- Josean Borges(joseanleite2010@gmail.com)
-- Jaymerson Ferreira(jaymerson.ferreira.s@gmail.com)
-- Fabiana Alves(fabileite653@gmail.com)
-- Lucas Teixeira()
-- Arthur Vilaverde(vilaverdearthur@gmail.com)
+- Josean Borges:[ Linkedin](https://www.linkedin.com/in/joseanplborges/)
+- Jaymerson Ferreira:[ Linkedin](https://www.linkedin.com/in/jaymerson-ferreira/)
+- Fabiana Alves:[ Linkedin](https://www.linkedin.com/in/fabiana-alves-823333179/)
+- Lucas Teixeira:[ Linkedin](https://www.linkedin.com/in/lucstx/)
+- Arthur Vilaverde:[ Linkedin](https://www.linkedin.com/in/arthur-vilarverde-dataanalytics/)
+
+## Ferramentas utilizadas no processo:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Tableau' src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white'/></a>
 
 ## Licença
 
