@@ -53,7 +53,7 @@ Certifique-se de ter Python 3 e todas as bibliotecas necessárias instaladas. Vo
 
 5. **Para mais informações de usabilidade [clique aqui](https://github.com/Fabiana5308/projeto_grupo_m5_criptomoedas/blob/main/Passo-a-passo/Importa%C3%A7%C3%A3o-e-visualiza%C3%A7%C3%A3o.md).**
 
-Abra o arquivo `criptomoedas_analysis.ipynb` no Jupyter Notebook e siga as instruções para executar a análise.
+Abra o arquivo [criptomoedas_analysis.ipynb](https://colab.research.google.com/github/Fabiana5308/projeto_grupo_m5_criptomoedas/blob/main/Projeto_em_grupo_M%C3%B3dulo_5.ipynb) no Jupyter Notebook e siga as instruções para executar a análise.
 
 ## Estrutura do Projeto
 
