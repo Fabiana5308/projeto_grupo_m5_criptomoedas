@@ -19,27 +19,16 @@ Neste material você poderá seguir o passo-a-passo de execução de todas as et
 - Com este arquivo em sua máquina, abra o programa de de sua preferência para carregar os dados(Sugestão: PgAdmin). Nele crie a seguinte tabela:
 
 CREATE TABLE criptomoedas ( 
-
-    SNo serial PRIMARY KEY, 
-
-    Name varchar(255), 
-
-    Symbol varchar(10), 
-
-    Date timestamp, 
-
-    High numeric, 
-
-    Low numeric, 
-
-    Open numeric, 
-
-    Close numeric, 
-
-    Volume numeric, 
-
-    Marketcap numeric 
-
+    SNo serial PRIMARY KEY,  
+    Name varchar(255),  
+    Symbol varchar(10),  
+    Date timestamp,  
+    High numeric,  
+    Low numeric,  
+    Open numeric,  
+    Close numeric,  
+    Volume numeric,  
+    Marketcap numeric  
 ); 
 
 ![05](https://github.com/Fabiana5308/projeto_grupo_m5_criptomoedas/blob/main/Passo-a-passo/01%20Criando%20tabela.png?raw=true)
