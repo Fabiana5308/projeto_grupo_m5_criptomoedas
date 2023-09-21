@@ -71,10 +71,13 @@ Os resultados e insights desta análise estão disponíveis na apresentação. V
 
 Fique à vontade para contribuir com melhorias, correções de bugs ou novas análises. Basta criar um fork deste repositório, fazer as alterações e enviar um pull request.
 
-## Autor
+## Autores
 
-- Seu Nome
-- Seu Email
+- Josean Borges(joseanleite2010@gmail.com)
+- Jaymerson Ferreira(jaymerson.ferreira.s@gmail.com)
+- Fabiana Alves(fabileite653@gmail.com)
+- Lucas Teixeira()
+- Arthur Vilaverde(vilaverdearthur@gmail.com)
 
 ## Licença
 
