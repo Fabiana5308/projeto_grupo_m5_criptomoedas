@@ -44,16 +44,16 @@ O futuro das criptomoedas permanece incerto e sujeito a desafios, tanto técnico
 
 Certifique-se de ter Python 3 e todas as bibliotecas necessárias instaladas.
 
-1.**[Passo a passo](https://github.com/Fabiana5308/projeto_grupo_m5_criptomoedas/blob/main/Passo-a-passo/Importa%C3%A7%C3%A3o-e-visualiza%C3%A7%C3%A3o.md)**:Siga estas etapas para executar o projeto em seu ambiente local.
+1.**[Passo a passo](https://github.com/Fabiana5308/projeto_grupo_m5_criptomoedas/blob/main/Passo-a-passo/Importa%C3%A7%C3%A3o-e-visualiza%C3%A7%C3%A3o.md)**: Siga estas etapas para executar o projeto em seu ambiente local.
 
 2.**[arquivo](https://github.com/Fabiana5308/projeto_grupo_m5_criptomoedas/blob/main/Passo-a-passo/Importa%C3%A7%C3%A3o-e-visualiza%C3%A7%C3%A3o.md)**: Aqui está o arquivo csv com todas as criptomoedas.(Baixar)
 
-3.**[Acesse o Notebook](https://github.com/Fabiana5308/projeto_grupo_m5_criptomoedas/blob/main/Passo-a-passo/Importa%C3%A7%C3%A3o-e-visualiza%C3%A7%C3%A3o.md)**:Abra o arquivo Notebook colab e siga as instruções.
+3.**[Acesse o Notebook](https://github.com/Fabiana5308/projeto_grupo_m5_criptomoedas/blob/main/Passo-a-passo/Importa%C3%A7%C3%A3o-e-visualiza%C3%A7%C3%A3o.md)**: Abra o arquivo Notebook colab e abra o arquivo csv que você baixou e execute no colab,siga as instruções que estão no passo a passo.
 
 
 4.**[Gráficos](https://github.com/Fabiana5308/projeto_grupo_m5_criptomoedas/tree/main/Gr%C3%A1ficos)**: Contém os gráficos do projeto.
 
-5.**[Slide]()**: Apresentação em PowerPoint.
+5.**[Slide](https://github.com/Fabiana5308/projeto_grupo_m5_criptomoedas/tree/main/Slide)**: Apresentação em PowerPoint.
 
 
 
