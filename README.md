@@ -48,7 +48,7 @@ Certifique-se de ter Python 3 e todas as bibliotecas necessárias instaladas.
 
 2.**[arquivo](https://github.com/Fabiana5308/projeto_grupo_m5_criptomoedas/tree/main/arquivo%20csv)**: Aqui está o arquivo csv com todas as criptomoedas.(Baixar)
 
-3.**[Acesse o Notebook](https://github.com/Fabiana5308/projeto_grupo_m5_criptomoedas/blob/main/Passo-a-passo/Importa%C3%A7%C3%A3o-e-visualiza%C3%A7%C3%A3o.md)**: Abra o arquivo Notebook colab e abra o arquivo csv que você baixou e execute no colab,siga as instruções que estão no passo a passo.
+3.**[Acesse o Notebook](https://github.com/Fabiana5308/projeto_grupo_m5_criptomoedas/blob/main/Projeto_em_grupo_M%C3%B3dulo_5.ipynb)**: Abra o arquivo Notebook colab e abra o arquivo csv que você baixou e execute no colab,siga as instruções que estão no passo a passo.
 
 
 4.**[Gráficos](https://github.com/Fabiana5308/projeto_grupo_m5_criptomoedas/tree/main/Gr%C3%A1ficos)**: Contém os gráficos do projeto.
