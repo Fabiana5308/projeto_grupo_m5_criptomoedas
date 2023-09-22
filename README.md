@@ -39,25 +39,17 @@ O futuro das criptomoedas permanece incerto e sujeito a desafios, tanto técnico
 
 ## Como Executar o Projeto
 
-Siga estas etapas para executar o projeto em seu ambiente local:
-
 1. **Clonar o Repositório:**
+2.**Instalar Dependências:**
 
-2. **Instalar Dependências:**
+Certifique-se de ter Python 3 e todas as bibliotecas necessárias instaladas.
 
-Certifique-se de ter Python 3 e todas as bibliotecas necessárias instaladas. Você pode usar o seguinte comando para instalar as dependências:
+1.**[Passo a passo](https://github.com/Fabiana5308/projeto_grupo_m5_criptomoedas/blob/main/Passo-a-passo/Importa%C3%A7%C3%A3o-e-visualiza%C3%A7%C3%A3o.md)**:Siga estas etapas para executar o projeto em seu ambiente local.
 
-3. **Executar o Colab Notebook :**
+2.**[arquivo](https://github.com/Fabiana5308/projeto_grupo_m5_criptomoedas/blob/main/Passo-a-passo/Importa%C3%A7%C3%A3o-e-visualiza%C3%A7%C3%A3o.md)**: Aqui está o arquivo csv com todas as criptomoedas.(Baixar)
 
-4. **Acesse o Notebook:**
+3.**[Acesse o Notebook](https://github.com/Fabiana5308/projeto_grupo_m5_criptomoedas/blob/main/Passo-a-passo/Importa%C3%A7%C3%A3o-e-visualiza%C3%A7%C3%A3o.md)**:Abra o arquivo Notebook colab e siga as instruções.
 
-5. **Para mais informações de Navegação [clique aqui](https://github.com/Fabiana5308/projeto_grupo_m5_criptomoedas/blob/main/Passo-a-passo/Importa%C3%A7%C3%A3o-e-visualiza%C3%A7%C3%A3o.md)**
-
-Abra o arquivo [criptomoedas_analysis.ipynb](https://colab.research.google.com/github/Fabiana5308/projeto_grupo_m5_criptomoedas/blob/main/Projeto_em_grupo_M%C3%B3dulo_5.ipynb) no Jupyter Notebook e siga as instruções para executar a análise.
-
-## Estrutura do Projeto
-
-A estrutura do projeto está organizada da seguinte forma:
 
 - `data/`: Contém os dados históricos das criptomoedas em formato CSV.
 - `notebooks/`: Contém o notebook Jupyter com a análise exploratória.
