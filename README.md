@@ -39,8 +39,8 @@ O futuro das criptomoedas permanece incerto e sujeito a desafios, tanto técnico
 
 ## Como Executar o Projeto
 
-1. **Clonar o Repositório:**
-2.**Instalar Dependências:**
+**Clonar o Repositório:**
+**Instalar Dependências:**
 
 Certifique-se de ter Python 3 e todas as bibliotecas necessárias instaladas.
 
@@ -51,15 +51,11 @@ Certifique-se de ter Python 3 e todas as bibliotecas necessárias instaladas.
 3.**[Acesse o Notebook](https://github.com/Fabiana5308/projeto_grupo_m5_criptomoedas/blob/main/Passo-a-passo/Importa%C3%A7%C3%A3o-e-visualiza%C3%A7%C3%A3o.md)**:Abra o arquivo Notebook colab e siga as instruções.
 
 
-- `data/`: Contém os dados históricos das criptomoedas em formato CSV.
-- `notebooks/`: Contém o notebook Jupyter com a análise exploratória.
-- `images/`: Armazena imagens utilizadas na apresentação.
-- `presentation/`: Apresentação em PowerPoint ou PDF.
-- `README.md`: Este arquivo, explicando o projeto e como executá-lo.
+4.**[Gráficos](https://github.com/Fabiana5308/projeto_grupo_m5_criptomoedas/tree/main/Gr%C3%A1ficos)**: Contém os gráficos do projeto.
 
-## Apresentação
+5.**[Slide]()**: Apresentação em PowerPoint.
 
-Os resultados e insights desta análise estão disponíveis na apresentação. Você pode visualizá-la [aqui](presentation/nome-da-apresentacao.pdf).
+
 
 ## Contribuição
 
